@@ -92,10 +92,6 @@ body {
 		grid-template-rows: 1fr 1fr 1fr;
 		max-height: 1500px;
 	}
-	/* .container .box {
-		grid-column: unset !important;
-		grid-row: unset !important;
-	} */
 	#container .box {
 		grid-column: span 1;
 		grid-row: span 1;
